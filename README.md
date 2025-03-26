@@ -17,7 +17,7 @@
 The purpose of the project is to automate the Gatekeeper tasks of browsing throught the email (with and without attachment) and trying to identify the request type and subtype from the email or its attachment content. With the help of this classification and extraction of key terms from the email, the team would be able to riase Service requests easily and would try to process them in the work flow.
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo](#) artifacts/demo 
 🖼️ Screenshots:
 ![image](https://github.com/user-attachments/assets/9752a257-1508-4c0a-8f4f-6e6a205a55bb)
 
